@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f157b1e4-bfe3-ec78-d5cf-02ca3f4a25d3
 resourcetype: Document
 title: MIT18_152F11_ProblemSet_6.pdf
 uid: a5ff1db7-7d4f-b6dd-1ece-ffc89ca86c5e

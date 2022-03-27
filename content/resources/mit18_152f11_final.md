@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 31b4d2ac-00d8-ddbb-a570-3b5e14313422
 resourcetype: Document
 title: MIT18_152F11_Final.pdf
 uid: 92c849e8-993e-dde3-cf30-06b0556e685a
