@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +30,7 @@ PROBLEMS
 Lec #3
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_1))
+Problem Set 1 ({{% resource_link 1664612b-6085-8bed-4529-eccd5e46aac6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +39,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_1))
 Lec #5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_2))
+Problem Set 2 ({{% resource_link 20f6a8b0-a59d-db94-af75-955164406611 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_2))
 Lec #7
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_3))
+Problem Set 3 ({{% resource_link f76665b5-eaba-8aea-4a56-b0cd8c5eab37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +57,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_3))
 Lec #9
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_4))
+Problem Set 4 ({{% resource_link aa9f011d-80b8-c34b-8ba7-40e0871ba666 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +66,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_4))
 Lec #10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_5))
+Problem Set 5 ({{% resource_link e35d62a1-06c0-b422-4beb-78782f1cacea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +75,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_5))
 Lec #12
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_6))
+Problem Set 6 ({{% resource_link a5ff1db7-7d4f-b6dd-1ece-ffc89ca86c5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_6))
 Lec #15
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_7))
+Problem Set 7 ({{% resource_link bcf623d8-d976-cf99-a7c3-d104bc0504f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +93,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_7))
 Lec #17
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_8))
+Problem Set 8 ({{% resource_link a4c23298-2c4f-ddfa-477d-c116cd3c3a72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +102,7 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_8))
 Lec #19
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_9))
+Problem Set 9 ({{% resource_link da0c55aa-a899-f519-eb12-077aefe5e302 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +111,7 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_9))
 Lec #21
 {{< tdclose >}}
 {{< tdopen >}}
-Optional (Bonus) Problem ([PDF]({{< baseurl >}}/resources/mit18_152f11_bonusproblem))
+Optional (Bonus) Problem ({{% resource_link a8327ee7-8dd3-2772-1dfc-22490d79db90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +120,7 @@ Optional (Bonus) Problem ([PDF]({{< baseurl >}}/resources/mit18_152f11_bonusprob
 Lec #22
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 10 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_10))
+Problem Set 10 ({{% resource_link a1e6a9c1-5c35-3777-0499-02e641116425 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +129,7 @@ Problem Set 10 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_10))
 Lec #24
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 11 ([PDF]({{< baseurl >}}/resources/mit18_152f11_problemset_11))
+Problem Set 11 ({{% resource_link d2545983-da76-8284-11b8-a11723abeedc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
