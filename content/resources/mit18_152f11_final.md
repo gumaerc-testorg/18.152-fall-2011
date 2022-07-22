@@ -5,6 +5,7 @@ file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_152F11_Final.pdf
 uid: 92c849e8-993e-dde3-cf30-06b0556e685a
 ---
 This resource contains final exam.
-

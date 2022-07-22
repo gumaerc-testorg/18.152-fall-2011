@@ -5,6 +5,7 @@ file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_152F11_ProblemSet_10.pdf
 uid: a1e6a9c1-5c35-3777-0499-02e641116425
 ---
 This resource contains information regarding assignments.
-
