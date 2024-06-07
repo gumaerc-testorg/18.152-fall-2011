@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding assignments.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/1664612b60858bed4529eccd5e46aac6_MIT18_152F11_ProblemSet_1.pdf
+file_size: 192025
 file_type: application/pdf
 learning_resource_types:
 - Assignments
