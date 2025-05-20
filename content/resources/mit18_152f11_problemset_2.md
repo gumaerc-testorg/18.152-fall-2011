@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignments.
-file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2011/20f6a8b0a59ddb94af75955164406611_MIT18_152F11_ProblemSet_2.pdf
+file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/20f6a8b0a59ddb94af75955164406611_MIT18_152F11_ProblemSet_2.pdf
 file_size: 185200
 file_type: application/pdf
 learning_resource_types:
