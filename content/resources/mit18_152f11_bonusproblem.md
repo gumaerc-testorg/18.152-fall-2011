@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains bonus problems.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/a8327ee78dd327721dfc22490d79db90_MIT18_152F11_BonusProblem.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2011/a8327ee78dd327721dfc22490d79db90_MIT18_152F11_BonusProblem.pdf
 file_size: 172985
 file_type: application/pdf
 learning_resource_types:
