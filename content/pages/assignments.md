@@ -10,7 +10,7 @@ uid: f157b1e4-bfe3-ec78-d5cf-02ca3f4a25d3
 
 Some of the problems are assigned in the required textbook:
 
-Salsa, Sandro. _Partial Differential Equations in Action: From Modelling to Theory_. Springer, 2010. ISBN: 9788847007512. \[Preview with [Google Books](http://books.google.com/books?id=ZO4y7wl4pngC&pg=PAfrontcover#v=onepage)\]
+Salsa, Sandro. _Partial Differential Equations in Action: From Modelling to Theory_. Springer, 2010. ISBN: 9788847007512. \[Preview with {{% resource_link "3bcc465a-d823-4a70-a695-330f7ca12eaa" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
